@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+/outputs/
+/results/
+temp/
+/books/
+/news/
+/data/
+*.safetensors
+*.bin
+.env
